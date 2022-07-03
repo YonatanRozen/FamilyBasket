@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1094270090547",
+    "firebase_url": "https://familybasket-80828-default-rtdb.firebaseio.com",
+    "project_id": "familybasket-80828",
+    "storage_bucket": "familybasket-80828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094270090547:android:9c7a75bf3064bbc6ccd246",
+        "android_client_info": {
+          "package_name": "com.companyname.fambasket_3_0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094270090547-23eb75ahna1u39c37jaka19srqcgavdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHHhYfyVYrIjtFdI-UzFeMeKDJ_sn6d4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094270090547-23eb75ahna1u39c37jaka19srqcgavdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
